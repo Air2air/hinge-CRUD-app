@@ -1,0 +1,37 @@
+[
+  {
+    "name": "root",
+    "offset": null,
+    "line": "1"
+  },
+  {
+    "name": "ant",
+    "offset": "2",
+    "line": "1.1"
+  },
+  {
+    "name": "bear",
+    "offset": "2",
+    "line": "1.2"
+  },
+  {
+    "name": "cat",
+    "offset": "4",
+    "line": "1.2.1"
+  },
+  {
+    "name": "dog",
+    "offset": "4",
+    "line": "1.2.2"
+  },
+  {
+    "name": "elephant",
+    "offset": "5",
+    "line": "1.2.2.1"
+  },
+  {
+    "name": "frog",
+    "offset": "2",
+    "line": "1.2.3"
+  }
+]

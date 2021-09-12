@@ -1,0 +1,68 @@
+.App {
+  text-align: left;
+  padding: 20px;
+  height: 500px;
+}
+
+.App-logo {
+  width: 300px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+h2 {
+  font-weight: 300;
+}
+
+.App-step {
+  font-weight: bold;
+}
+
+.App-api {
+  color: red;
+}
+
+span {
+  padding-right: 5px;
+}
+
+code {
+  padding: 0 2px;
+}
+
+/* ----- Todd's stuff -----*/
+
+.highlighted {
+  border: 2px solid rgb(255, 102, 0);
+  padding: 5px 10px;
+  margin: 8px 0;
+  border-radius: 6px;
+}
+
+.highlighted p {
+  font-size: 0.95em;
+  margin-top: 10px;
+  color: rgb(255, 102, 0);
+}
+
+.sort-button {
+  font-size: 0.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  min-width: 90px;
+  margin: 0 0 4px 5px;
+}
